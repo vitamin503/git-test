@@ -14,4 +14,6 @@ public class FirstClass {
         System.out.println("hello git project");
     }
 
+    int i = 3;
+
 }
